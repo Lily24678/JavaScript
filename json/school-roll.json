@@ -1,0 +1,53 @@
+[
+	{
+		"id": 1,
+		"name": "张三",
+		"age": 23,
+		"sex": "男",
+		"TimeOfEnrollment": "1933-09-01",
+		"TimeOfGraduation": "1937-06-30",
+		"headTeacher": "牛人",
+		"studentsConduct": "A",
+		"grade": "点击查看"
+	}, {
+		"id": 2,
+		"name": "李四",
+		"age": 24,
+		"sex": "男",
+		"TimeOfEnrollment": "1933-09-01",
+		"TimeOfGraduation": "1937-06-30",
+		"headTeacher": "牛人",
+		"studentsConduct": "B",
+		"grade": "点击查看"
+	}, {
+		"id": 3,
+		"name": "王二麻",
+		"age": 22,
+		"sex": "男",
+		"TimeOfEnrollment": "1934-09-01",
+		"TimeOfGraduation": "1937-06-30",
+		"headTeacher": "牛人",
+		"studentsConduct": "C",
+		"grade": "点击查看"
+	}, {
+		"id": 4,
+		"name": "小名",
+		"age": 20,
+		"sex": "女",
+		"TimeOfEnrollment": "1934-09-01",
+		"TimeOfGraduation": "1938-06-30",
+		"headTeacher": "芳华",
+		"studentsConduct": "A",
+		"grade": "点击查看"
+	}, {
+		"id": 5,
+		"name": "小明",
+		"age": 21,
+		"sex": "女",
+		"TimeOfEnrollment": "1935-09-01",
+		"TimeOfGraduation": "1939-06-30",
+		"headTeacher": "芳华",
+		"studentsConduct": "B",
+		"grade": "点击查看"
+	}
+]
