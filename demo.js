@@ -13,6 +13,14 @@ var app2 = new Vue({
         message: '页面加载于 ' + new Date().toLocaleString()
     }
 });
+//使用 Object.freeze()，这会阻止修改现有的 property。
+var obj = { foo: 'bar' };
+Object.freeze(obj);
+new Vue({
+    el: '#app-e',
+    data: obj
+});
+
 /**
  * 条件与循环
  */
@@ -32,6 +40,7 @@ var app4 = new Vue({
         ]
     }
 })
+
 /**
  * 处理用户输入
  */
@@ -52,6 +61,7 @@ var app6 = new Vue({
         message: 'Hello Vue!'
     }
 })
+
 /**
  * 组建化应用构建
  */
