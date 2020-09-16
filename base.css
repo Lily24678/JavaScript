@@ -1,3 +1,8 @@
 strong{
     color: red;
 }
+
+code pre{
+    background-color:WhiteSmoke;
+    font-style: italic;
+}
